@@ -1,2 +1,0 @@
-# PowerBI
-[Microsoft Documentation: (https://opdhsblobprod04.blob.core.windows.net/contents/767746c547a64a2da2400249de2b39e2/cf996de236ca774d45cc63cbc9c4308b?skoid=2d004ef0-5468-4cd8-a5b7-14c04c6415bc&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2022-12-15T10%3A35%3A48Z&ske=2022-12-22T10%3A40%3A48Z&sks=b&skv=2021-10-04&sv=2021-10-04&se=2022-12-16T15%3A53%3A22Z&sr=b&sp=r&sig=fUmM6TvLwtC%2BCmbnGU1DHSq9sxGxN1vGV0DOvv1RwSU%3D)]
