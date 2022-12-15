@@ -1,6 +1,1 @@
-DAX in Power BI stands for Data Analysis Expression
-Two sources to begin learning DAX are:
-  [Dax documentation: (https://learn.microsoft.com/en-us/dax/dax-function-reference)]
-  Beginning DAX Tutorials by Pragmatics Work: https://www.youtube.com/watch?v=QJw4HkagVWc&t=2691s
-The logic of DAX are very similar to the that of Excel or SQL, so it's pretty easy to comprehend and write DAX functions if one has Excel or SQL background. 
-Many DAX codes are simplied versions of long and complicated SQL lines. 
+
